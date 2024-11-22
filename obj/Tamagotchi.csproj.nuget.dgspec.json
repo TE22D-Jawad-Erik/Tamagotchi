@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj": {}
+    "C:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj": {
+    "C:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj",
+        "projectUniqueName": "C:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj",
         "projectName": "Tamagotchi",
-        "projectPath": "c:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj",
+        "projectPath": "C:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\Tamagotchi.csproj",
         "packagesPath": "C:\\Users\\Erik.jawad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\obj\\",
+        "outputPath": "C:\\Users\\Erik.jawad\\Documents\\prog2\\Tamagotchi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
